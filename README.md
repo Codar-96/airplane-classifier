@@ -1,4 +1,4 @@
-This is an airplane classfier that was made by me as a passion project, all files can be found in the Releases page
+This is an airplane classfier that was made by me as a passion project, all files including the Keras ai model can be found in the Releases page
 
 The model uses the [FGVC database](https://www.kaggle.com/datasets/seryouxblaster764/fgvc-aircraft) that was modified to add these planes 
 
