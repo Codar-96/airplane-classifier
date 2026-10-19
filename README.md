@@ -13,7 +13,7 @@ The model uses the [FGVC database](https://www.kaggle.com/datasets/seryouxblaste
 "Dassault Rafale",
 "Fairchild Republic A-10 Thunderbolt II"
 
-All of these classes have around 70  imgs
+All of these classes have around 70 imgs and all class names can be found in either planes_list.txt or in the demo script
 
 
 
