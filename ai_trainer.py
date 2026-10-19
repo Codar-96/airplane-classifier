@@ -3,9 +3,9 @@ import tensorflow as tf
 from tensorflow.keras import layers, models, callbacks
 
 # 1. Configuration & Path Setup
-DATASET_DIR = r"C:\Users\youss\Desktop\Planes_dataset" 
+DATASET_DIR = os.path.join(os.path.expanduser("~/Desktop"), "Planes_dataset")
 IMG_SIZE = (512, 512)
-BATCH_SIZE = 10                 # Safe and optimized for your RTX 4050 (6GB VRAM) with EfficientNetB2
+BATCH_SIZE = 10                
 
 print("Loading and preparing your cleaned dataset...")
 train_ds = tf.keras.utils.image_dataset_from_directory(
