@@ -1,0 +1,11 @@
+A330 neo
+A320 neo
+    "Boeing 787",
+    "Airbus A350",
+    "Antonov An-225 Mriya",
+    "Lockheed Martin F-22 Raptor",
+    "Lockheed Martin F-35 Lightning II",
+    "Boeing F18 Hornet",
+    "McDonnell Douglas F-15 Eagle",
+    "Dassault Rafale",
+    "Fairchild Republic A-10 Thunderbolt II",
